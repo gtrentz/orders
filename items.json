@@ -1,0 +1,11 @@
+[
+{"name": "Burger",
+"price":  "2.99",
+"ID":  "1"},
+  {"name":  "Fries",
+  "price":  "1.99",
+  "ID":  "2"},
+  {"name":  "Fountain Drink",
+  "price": "0.99",
+  "ID":  "3"}
+]
