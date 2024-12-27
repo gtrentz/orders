@@ -1,13 +1,14 @@
 package src;
-import org.json.JSONObject;
 
 public class ItemLine {
     public String name;
     public int quantity;
     public float price;
+    public int ID;
 
-    public ItemLine(int ID, int quantity) {
-        this.quantity = quantity;
-
+    public ItemLine(String n, float price, int ID) {
+        this.name = n;
+        this.price = price;
+        this.ID = ID;
     }
 }
